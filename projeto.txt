@@ -1,0 +1,25 @@
+📢 Comandos Militares com IA
+
+📒 Descrição
+Criei um vídeo utilizando inteligência artificial, onde meu amigo aparece com a farda do Colégio Militar e dá comandos militares. Ele fala:
+"Bom dia, turma! Venho informar o básico dos comandos militares. Primeiro: SENTIDO! Segundo: DESCANSAR! CMPM CINCO!"
+
+🤖 Tecnologias Utilizadas
+🎥 D-ID – Utilizado para gerar o vídeo animado com inteligência artificial.
+🎭 IA de Sintetização de Voz – Para dar voz ao personagem.
+
+🧐 Processo de Criação
+Escolhi uma imagem do meu amigo usando a farda do Colégio Militar.
+Utilizei a plataforma D-ID para criar a animação facial e sincronizar os movimentos com o áudio.
+Gerenciei a voz gerada por IA para corresponder ao tom esperado.
+Ajustei a sincronização labial e finalizei o vídeo.
+
+🚀 Resultados
+✅ Vídeo realista com fala fluída e expressões naturais.
+✅ Demonstração clara dos comandos militares.
+✅ Reação divertida entre amigos e interação sobre o tema.
+
+
+💭 Reflexão
+Foi interessante ver como a IA pode criar um vídeo convincente a partir de uma única imagem e um texto. O processo foi rápido e o resultado, bem natural, mostrando como a tecnologia pode ser usada de forma criativa. 🚀🎬
+
